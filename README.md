@@ -23,7 +23,7 @@ I am a copier, I copy everything from one to another
 To start using Copier, install Go and run go get:
 
 ```bash
-go get -u github.com/jinzhu/copier
+go get -u github.com/roccoriu/copier
 ```
 
 ## Basic
